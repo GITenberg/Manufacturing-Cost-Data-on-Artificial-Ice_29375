@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '33882'
     url: http://www.gutenberg.org/2009/agents/33882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29375#Manufacturing-Cost-Data-on-Artificial-Ice
 gutenberg_issued: '2009-07-11'
 gutenberg_type: Text
 identifiers:
